@@ -1,0 +1,10 @@
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\bin\Debug\timerapp.exe.config
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\bin\Debug\timerapp.exe
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\bin\Debug\timerapp.pdb
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\obj\Debug\timerapp.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\obj\Debug\timerapp.Form1.resources
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\obj\Debug\timerapp.Properties.Resources.resources
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\obj\Debug\timerapp.csproj.GenerateResource.cache
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\obj\Debug\timerapp.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\obj\Debug\timerapp.exe
+C:\Users\elif\Desktop\AjaxjJson\timerapp\timerapp\obj\Debug\timerapp.pdb
